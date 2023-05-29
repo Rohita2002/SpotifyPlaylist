@@ -2,6 +2,8 @@
 
 ## Features
 
+![Flowchart for functionality](Flowchart.jpg)
+
 ### ADMIN Mode
 
 In ADMIN mode, the following actions can be performed:
@@ -32,6 +34,3 @@ In USER mode, the following actions can be performed:
 
 - This application is inspired by the need for a simple music management system.
 - The merge sort algorithm used for sorting the playlist is based on Merge Sort.
-
-
-![Flowchart for functionality](Flowchart.jpg)
