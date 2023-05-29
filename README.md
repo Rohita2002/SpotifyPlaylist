@@ -34,3 +34,4 @@ In USER mode, the following actions can be performed:
 - The merge sort algorithm used for sorting the playlist is based on Merge Sort.
 
 
+![Flowchart for functionality](Flowchart.jpg)
